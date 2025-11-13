@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff; /* Classic white background */
+    color: #333333;
+    max-width: 800px;
+    margin: 40px auto; /* Centers the content */
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #000000;
+}
+
+.chapter-list p {
+    margin: 10px 0;
+    padding: 5px;
+    border-bottom: 1px dashed #cccccc;
+}
+
+.chapter-list a {
+    font-size: 1.2em;
+    text-decoration: none;
+    color: #007bff; /* Simple blue link */
+}
+
+.chapter-list a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+}
